@@ -11,6 +11,5 @@ def test_b():
     pass
 
 
-@pytest.mark.priority('p2')
 def test_c():
     pass
